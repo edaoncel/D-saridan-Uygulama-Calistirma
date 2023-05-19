@@ -1,0 +1,10 @@
+C:\Users\eda öncel\Desktop\dışarıdan uygulama çalıştırma\bin\Debug\dışarıdan uygulama çalıştırma.exe.config
+C:\Users\eda öncel\Desktop\dışarıdan uygulama çalıştırma\bin\Debug\dışarıdan uygulama çalıştırma.exe
+C:\Users\eda öncel\Desktop\dışarıdan uygulama çalıştırma\bin\Debug\dışarıdan uygulama çalıştırma.pdb
+C:\Users\eda öncel\Desktop\dışarıdan uygulama çalıştırma\obj\Debug\dışarıdan uygulama çalıştırma.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\dışarıdan uygulama çalıştırma\obj\Debug\dışarıdan_uygulama_çalıştırma.Form1.resources
+C:\Users\eda öncel\Desktop\dışarıdan uygulama çalıştırma\obj\Debug\dışarıdan_uygulama_çalıştırma.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\dışarıdan uygulama çalıştırma\obj\Debug\dışarıdan uygulama çalıştırma.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\dışarıdan uygulama çalıştırma\obj\Debug\dışarıdan uygulama çalıştırma.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\dışarıdan uygulama çalıştırma\obj\Debug\dışarıdan uygulama çalıştırma.exe
+C:\Users\eda öncel\Desktop\dışarıdan uygulama çalıştırma\obj\Debug\dışarıdan uygulama çalıştırma.pdb
